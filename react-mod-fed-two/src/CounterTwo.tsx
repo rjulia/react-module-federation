@@ -54,7 +54,7 @@ export default function Counter() {
   return (
     <div style={styles.counter}>
       <div style={styles.titleContainer}>
-        <h1 style={styles.title}>React Counter</h1>
+        <h1 style={styles.title}>Counter External</h1>
       </div>
       <div style={styles.countDisplay}>
         <h1 style={styles.count}>{count}</h1>
