@@ -1,0 +1,11 @@
+# Ignore node_modules in both apps
+react-mod-fed/node_modules/
+react-mod-fed-two/node_modules/
+
+# Ignore build folders if applicable
+react-mod-fed/build/
+react-mod-fed-two/build/
+
+# Other common ignores
+.DS_Store
+.env
